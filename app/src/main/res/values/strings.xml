@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ScoreKeeperSolution</string>
+    <string name="title_string">ScoreKeeper</string>
+    <string name="teamA_title_string">Team A</string>
+    <string name="teamB_title_string">Team B</string>
+    <string name="increase_string">+</string>
+    <string name="decrease_string">-</string>
+    <string name="round_no1">Increment/Decrement By 1</string>
+    <string name="round_no5">Increment/Decrement By 5</string>
+    <string name="round_no10">Increment/Decrement By 10</string>
+
+
+    <!-- preferences-->
+    <string name="Save_Pref_summary">Select the check box to save preferences and values that you have set</string>
+    <string name="Save_Pref">Save preferences</string>
+
+    <!-- menu-->
+
+    <string name="m_settings">Settings</string>
+    <string name="m_about">Score Keeping App version 1.0</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="num10">10</string>
+    <string name="num10b">10</string>
+
+
+</resources>
